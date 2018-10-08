@@ -39,8 +39,7 @@
 }
 
 [class*="col-"] {
-  margin: 2%;
-  display: inline;
+  margin-left: 2%;
 }
 
 .first {
