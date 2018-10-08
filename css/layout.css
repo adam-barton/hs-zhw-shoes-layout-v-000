@@ -40,7 +40,7 @@
 
 [class*="col-"] {
   margin: 2%;
-  display: block;
+  display: inline;
 }
 
 .first {
