@@ -39,7 +39,7 @@
 }
 
 [class*="col-"] {
-  margin-left: 1%;
+  margin: 5px;
 }
 
 .first {
